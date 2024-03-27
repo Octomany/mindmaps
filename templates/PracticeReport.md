@@ -1,4 +1,4 @@
-# Pentesting Practice Report
+# Pentesting Practice Report - HackTheBox Machine
 
 ## Executive Summary
 Provide a high-level overview of the pentest engagement, including the purpose, scope, findings, and recommendations.
